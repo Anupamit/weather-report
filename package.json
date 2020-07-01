@@ -1,0 +1,22 @@
+{
+  "name": "weather-report",
+  "version": "1.0.0",
+  "description": "it can help us to show the weater conditions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Anupamit/weather-report.git"
+  },
+  "author": "Anupam kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anupamit/weather-report/issues"
+  },
+  "homepage": "https://github.com/Anupamit/weather-report#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
